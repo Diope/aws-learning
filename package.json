@@ -1,0 +1,11 @@
+{
+  "author": {
+    "email": "dion.pettaway@gmail.com",
+    "name": "Dion Pettaway",
+    "url": "https://www.dipet.me"
+  },
+  "name": "gp-aws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
