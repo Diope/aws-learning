@@ -4,7 +4,7 @@
     "name": "Dion Pettaway",
     "url": "https://www.dipet.me"
   },
-  "name": "gp-aws",
+  "name": "aws-learning",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
