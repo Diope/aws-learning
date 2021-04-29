@@ -1,7 +1,7 @@
 const {hostname} = require("os");
 const http = require("http");
 
-const message = "Wow this is such a simple app, neat!";
+const message = "An updated change to see if this works";
 const port = 8008;
 
 const server = http.createServer((req, res) => {
