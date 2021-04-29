@@ -12,7 +12,7 @@ CODEPIPELINE_BUCKET="$STACK_NAME-$REGION-codepipeline-$AWS_ACCOUNT_ID"
 GH_ACCESS_TOKEN=$(cat ~/.aws-source-credentials/aws-learning-access-token)
 GH_OWNER=$(cat ~/.aws-source-credentials/aws-learning-owner)
 GH_REPO=$(cat ~/.aws-source-credentials/aws-learning-repo)
-GH_BRANCH=master
+GH_BRANCH=master 
 
 
 echo -e "\n\n=========== Deploying setup.yml ==========="
